@@ -1,7 +1,7 @@
 # config.py
 
-DATA_PATH = 'C:/Users/valae/Desktop/feta_2.2'
-MODEL_PATH = 'C:/Users/valae/Desktop/unet_fetal_brain_segmentation.h5'
+DATA_PATH = 'dataset path'
+MODEL_PATH = 'model path'
 INPUT_SHAPE = (256,256, 256, 1)
 BATCH_SIZE = 1
 EPOCHS = 50
